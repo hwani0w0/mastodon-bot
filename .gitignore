@@ -1,0 +1,20 @@
+# cljs ignores
+package-lock.json
+/node_modules
+/.shadow-cljs
+
+# mastodon-bot ignores
+config*.edn
+
+# lein ignores
+/target
+pom.*
+
+# pybuilder ignores
+.pybuilder
+__pycache__
+
+# ide ignores
+.calva/
+
+pom.xml.asc
